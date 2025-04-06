@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mattones.png">
+<SubTexture name="Mattones down0000" x="754" y="446" width="94" height="222" frameX="-121" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones down0001" x="613" y="457" width="94" height="222" frameX="-121" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones down0002" x="900" y="222" width="94" height="221" frameX="-121" frameY="-55" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones down0003" x="900" y="0" width="94" height="222" frameX="-121" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones down0004" x="376" y="457" width="94" height="223" frameX="-121" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones down0005" x="0" y="231" width="92" height="226" frameX="-121" frameY="-50" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0000" x="638" y="0" width="116" height="224" frameX="-96" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0001" x="638" y="224" width="115" height="224" frameX="-97" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0002" x="0" y="457" width="114" height="224" frameX="-99" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0003" x="114" y="457" width="112" height="224" frameX="-101" frameY="-52" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0004" x="92" y="231" width="110" height="226" frameX="-103" frameY="-50" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones idle0005" x="108" y="0" width="105" height="230" frameX="-107" frameY="-46" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0000" x="470" y="457" width="143" height="223" frameX="-83" frameY="-52" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0001" x="754" y="0" width="146" height="223" frameX="-83" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0002" x="226" y="457" width="150" height="224" frameX="-83" frameY="-52" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0003" x="485" y="0" width="153" height="225" frameX="-83" frameY="-51" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0004" x="202" y="231" width="156" height="226" frameX="-83" frameY="-50" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones left0005" x="213" y="0" width="159" height="227" frameX="-83" frameY="-49" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0000" x="358" y="681" width="123" height="220" frameX="-116" frameY="-57" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0001" x="481" y="681" width="123" height="220" frameX="-117" frameY="-57" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0002" x="604" y="681" width="121" height="220" frameX="-118" frameY="-56" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0003" x="725" y="681" width="121" height="220" frameX="-118" frameY="-56" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0004" x="0" y="681" width="118" height="222" frameX="-120" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones right0005" x="358" y="231" width="114" height="226" frameX="-122" frameY="-50" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0000" x="237" y="681" width="121" height="221" frameX="-99" frameY="-54" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0001" x="118" y="681" width="119" height="222" frameX="-101" frameY="-53" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0002" x="754" y="223" width="118" height="223" frameX="-103" frameY="-52" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0003" x="485" y="225" width="115" height="225" frameX="-106" frameY="-51" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0004" x="372" y="0" width="113" height="227" frameX="-108" frameY="-49" frameWidth="300" frameHeight="300" />
+<SubTexture name="Mattones up0005" x="0" y="0" width="108" height="231" frameX="-112" frameY="-45" frameWidth="300" frameHeight="300" />
+</TextureAtlas>
