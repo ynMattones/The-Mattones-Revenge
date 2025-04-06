@@ -41,7 +41,7 @@ You need to defeat Mattones before it's too late with rapping battles, and more.
 
 # Credits
 - [Mattones](https://github.com/ynMattones) - Creator of the game
-- [SuperStar]() - Sponsor of the time
+- [SuperStar](https://discord.gg/VEcZgWFf9Q) - Sponsor of the time
 
 # Special Thanks
 - [Rockboy]()
