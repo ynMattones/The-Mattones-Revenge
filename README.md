@@ -1,4 +1,4 @@
-# THE MATTONES REVENGE
+# The Mattones Revenge
 
 **NOTE: YOU CAN ACTUALLY USE GAME ASSETS ON YOUR GAME**
 
@@ -8,7 +8,7 @@ You need to defeat Mattones before it's too late with rapping battles, and more.
 
 **COOMING SOON FOR OTHER PLATFORMS!**
 
-# COMPILE/MODDING THE GAME
+# Compile/Modding the Game
 
 1. Download Necessary Resources
     - Download Haxe 4.3.4 from [Haxe.org](https://haxe.org)
@@ -31,7 +31,7 @@ You need to defeat Mattones before it's too late with rapping battles, and more.
         - For Linux
             - lime test Linux
 
-# ERRORS ON THE COMPILATION
+# Errors on the Compilation
 
 **IF THERE ARE ERRORS ON THE DECOMPILE YOU CAN:**
 
@@ -39,11 +39,11 @@ You need to defeat Mattones before it's too late with rapping battles, and more.
     - This disable not important functions and activate the debug mode in the game.
 2. View errors and try to fix.
 
-# CREDITS
+# Credits
 - [Mattones](https://github.com/ynMattones) - Creator of the game
 - [SuperStar]() - Sponsor of the time
 
-# SPECIAL THANKS
+# Special Thanks
 - [Rockboy]()
 - [Pipponciello96]()
 - [p44rrr]()
