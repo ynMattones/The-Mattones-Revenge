@@ -4,19 +4,19 @@ import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.util.FlxTimer;
 
-class Mattones extends FlxSprite
+class Player extends FlxSprite
 {
     public function new(x:Float, y:Float)
     {
         super(x, y);
 
-        var character = FlxAtlasFrames.fromSparrow(AssetPaths.Mattones__png, AssetPaths.Mattones__xml);
+        var character = FlxAtlasFrames.fromSparrow(AssetPaths.Player__png, AssetPaths.Player__xml);
         frames = character;
-        animation.addByPrefix('idle', 'Mattones idle', 20, false, false, false);
-        animation.addByPrefix('down', 'Mattones down', 20, false, false, false);
-        animation.addByPrefix('up', 'Mattones up', 20, false, false, false);
-        animation.addByPrefix('left', 'Mattones left', 20, false, false, false);
-        animation.addByPrefix('right', 'Mattones right', 20, false, false, false);
+        animation.addByPrefix('idle', 'Player idle', 20, false, true, false);
+        animation.addByPrefix('down', 'Player down', 20, false, true, false);
+        animation.addByPrefix('up', 'Player up', 20, false, true, false);
+        animation.addByPrefix('left', 'Player left', 20, false, true, false);
+        animation.addByPrefix('right', 'Player right', 20, false, true, false);
         scale.x = 2.7;
         scale.y = 2.7;
         character.setFrameOffset('idle', 0, 0);

@@ -1,0 +1,10 @@
+{
+    "notes": [
+        { "time": -1, "type": "down" },
+        { "time": 0, "type": "up" },
+        { "time": 1.0, "type": "up" },
+        { "time": 2.0, "type": "down" },
+        { "time": 3.0, "type": "left" },
+        { "time": 4.0, "type": "right" }
+    ]
+}
